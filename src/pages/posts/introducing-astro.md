@@ -1,5 +1,5 @@
 ---
-title: "Introducing Astro: Ship Less JavaScript"
+title: "Where the f**k should a digital nomad start?"
 description: "We're excited to announce Astro as a new way to build static websites and deliver lightning-fast performance without sacrificing a modern developer experience."
 date: "2021-06-08"
 hero: "/images/introducing-astro.jpg"
