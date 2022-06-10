@@ -9,4 +9,13 @@ const { title, description } = Astro.props;
 <header class="mx-auto max-w-xl text-center content">
   <h1 class="mb-4" data-test="header-title">{title}</h1>
   <p data-test="header-description">{description}</p>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6JJK6JR768"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6JJK6JR768');
+</script>
 </header>
