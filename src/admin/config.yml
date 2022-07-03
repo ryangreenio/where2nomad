@@ -21,6 +21,5 @@ collections:
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Hero Image", name: "hero", widget: "image"}
-      - {label: "Tags", name: "tags", widget: "string"}
       - {label: "Tags", name: "tags", widget: "blog"}
       - {label: "Body", name: "body", widget: "markdown"}
