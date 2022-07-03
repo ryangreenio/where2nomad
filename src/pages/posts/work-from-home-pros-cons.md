@@ -1,7 +1,7 @@
 ---
 title: "Work From Home: Pros and Cons For Remote Workers"
 description: "Considering work from home? We explore the pros and cons for remote workers working from home."
-date: "2022-17-06"
+date: "2022-06-17"
 hero: "/images/work-from-home.jpg"
 tags: ["work from home"]
 layout: "../../layouts/BlogPostLayout.astro"
@@ -42,6 +42,8 @@ Another model is the distributed team model, which is ideal for companies that h
 The final remote work model is the telecommuting model, which is ideal for companies that have employees who are unable to travel to an office. This model allows employees to work from home full-time or part-time.
 
 ## Work From Home Pros
+<img src="/images/bruno-emmanuelle-azsk_6IMT3I-unsplash.jpg" alt="work from home pros" width="100%" height="auto">
+
 
 There are many benefits to working from home, remote work, or being a nomad. Some of these benefits include:
 
@@ -87,6 +89,8 @@ Ultimately, working from home provides employees with freedom and flexibility. Y
 
 ## The cons of working from home
 
+<img src="/images/yasmina-h-p8DjPfqEhW0-unsplash.jpg" alt="work from home pros" width="100%" height="auto">
+
 There are many pros to working from home, but there are also some cons. Here are some of the main disadvantages of working from home:
 
 ### 1. You can easily get distracted
@@ -113,7 +117,7 @@ Work-life balance is a challenge for many people, but it can be especially diffi
 
 According to a study by the Society for Human Resource Management, only 43% of employers offer telecommuting as an option. That means employees who work from home might not be eligible for some benefits, like health insurance or 401k matching contributions. You can also forget the free doughnuts.
 
-7. It can be hard to find a place to work
+###  7. It can be hard to find a place to work
 
 There are some people who prefer working from home because they don't like being surrounded by other people or they don't like the noise and distraction that comes with an office environment.
 

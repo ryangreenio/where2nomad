@@ -19,6 +19,7 @@
   "dependencies": {
     "autoprefixer": "^10.4.4",
     "dayjs": "^1.11.0",
-    "lunr": "^2.3.9"
+    "lunr": "^2.3.9",
+    "netlify-cms-app": "^2.15.72"
   }
 }
