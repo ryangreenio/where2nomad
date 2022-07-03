@@ -24,6 +24,17 @@ allPosts = allPosts.sort((a, b) => new Date(b.date).valueOf() - new Date(a.date)
 
   <body class="bg-white text-black font-body leading-normal personality-casual">
     <Nav />
+     <script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
 
     <main class="py-12 lg:py-20">
       <article class="max-w-6xl mx-auto px-3">
