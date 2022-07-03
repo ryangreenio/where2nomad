@@ -1,0 +1,4 @@
+{
+    "layout": "BlogPostLayout.astro",
+    "tags": "blog"
+}
